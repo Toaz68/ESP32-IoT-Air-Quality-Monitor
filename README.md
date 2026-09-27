@@ -27,7 +27,7 @@ Hệ thống giám sát chất lượng không khí thông minh dựa trên vi �
 ### Sơ đồ khối & Mạch phần cứng
 | Sơ đồ khối hệ thống | Thiết kế mạch in (PCB) | Mạch phần cứng thực tế |
 | :---: | :---: | :---: |
-| ![Block Diagram](images/system_block_diagram.png) | ![PCB Layout](images/PCB.png) | ![SChematic](images/Schematic.jpg) |
+| ![Block Diagram](images/system_block_diagram.png) | ![PCB Layout](images/PCB.png) | ![SChematic](images/Schematic.png) |
 
 ---
 
